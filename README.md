@@ -107,6 +107,7 @@ The best performing model is used to:
 
 # Project Structure
 
+```
 pasteis_de_nata
 │
 ├── Data
@@ -124,7 +125,7 @@ pasteis_de_nata
 ├── Project Description.pdf
 │
 └── README.md
-
+```
 ---
 
 # Technologies Used
